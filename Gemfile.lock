@@ -187,6 +187,7 @@ DEPENDENCIES
   carrierwave
   coffee-rails (~> 4.2)
   jbuilder (~> 2.5)
+  mini_magick (= 4.9.5)
   net-ssh
   pg
   puma (~> 3.7)
